@@ -8,7 +8,7 @@
 - 🏗️ Building **scalable applications & microservices**  
 - 🌍 Exploring **AWS, CI/CD, and DevOps**  
 - 📚 Learning **Generative AI & advanced system architectures**  
-
+[My Resume](https://drive.google.com/file/d/1RVcxcFGy4N3txvX0AAg-KABM87g4tvAW/view?usp=drive_link)
 ## 🛠 Tech Stack  
 **Languages:** Java, JavaScript, Python, SQL, HTML, CSS  
 **Backend:** Node.js, Express.js, API Development  
