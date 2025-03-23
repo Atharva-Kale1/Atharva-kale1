@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Atharva Kale! 👋  
 
-<!--
-**Atharva-Kale1/Atharva-kale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack Developer | Cloud Enthusiast | AI & System Design  
 
-Here are some ideas to get you started:
+## 📌 About Me  
+- 🎓 **B.Tech in Computer Science Engineering** (VIT Bhopal, 2022-2026)  
+- 💡 Passionate about **backend engineering, cloud computing, AI, and system design**  
+- 🏗️ Building **scalable applications & microservices**  
+- 🌍 Exploring **AWS, CI/CD, and DevOps**  
+- 📚 Learning **Generative AI & advanced system architectures**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+**Languages:** Java, JavaScript, Python, SQL, HTML, CSS  
+**Backend:** Node.js, Express.js, API Development  
+**Frontend:** React.js, Next.js, TailwindCSS  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Cloud & DevOps:** Appwrite, Docker, AWS (Basic)  
+**Concepts:** DSA, OOP, Microservices, System Design, CI/CD Pipelines  
+
+## 💻 Notable Projects  
+🔹 **Conversational AI with LangChain & Pinecone**  
+🚀 Built a RAG-based Q&A system with **semantic search & vector embeddings**, achieving **80%+ accuracy**.  
+🔹 **Subscription Management API**  
+🔑 Scalable API handling **5K+ transactions**, JWT authentication, and **MongoDB indexing (60% faster queries)**.  
+🔹 **StoreIt – Cloud Storage Platform**  
+☁️ Secure **file storage & sharing** platform with **real-time notifications & caching (50% faster retrievals)**.  
+
+## 🎓 Certifications  
+✔️ Python Essentials – Vityarthi  
+✔️ Web Development Bootcamp 2023  
+✔️ IBM-ADROIT - GEN AI Training  
+✔️ SMARTBRIDGE - MERN Certification  
+✔️ AWS Cloud Practitioner (In Progress)  
+
+## 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharvakale1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](http://store-it-one-phi.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-github)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=dark)  
